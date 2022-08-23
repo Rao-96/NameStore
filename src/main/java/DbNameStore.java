@@ -35,4 +35,8 @@ public class DbNameStore implements NameStore {
         //to ber done
         return null;
     }
+    public void setDB(){
+
+    }
+
 }
